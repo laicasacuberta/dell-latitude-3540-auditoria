@@ -50,8 +50,8 @@ L'equip presentava un bloqueig crític en l'encesa ordinària que impedia carreg
     2.  **Test d'Estrès ePSA de Dell (F12):** Execució de l'eina de diagnòstic nadiu integrat en placa. El test confirma que no hi ha danys catastròfics ni curtcircuits a la placa mare o memòries. Addicionalment, es va superar el test interactiu cromàtic del panell LCD (*Display Panel Test* / *BIST*), ratificant la total integritat de la pantalla: absència de píxels defectuosos (*dead pixels*), zero distorsions i un inversor de retroil·luminació completament stable.
 
 <p align="center">
-  <img src="img/04_pantalla_bios.jpg" alt="Inspecció BIOS" width="45%">
-  <img src="img/05_test_epsa.jpg" alt="Diagnòstic ePSA" width="45%">
+  <img src="img/05_pantalla_bios.jpg" alt="Inspecció BIOS" width="45%">
+  <img src="img/06_test_epsa.jpg" alt="Diagnòstic ePSA" width="45%">
 </p>
 
 ---
@@ -72,9 +72,9 @@ Després de retirar la bateria de seguretat i extreure la carcassa inferior, es 
 *   **Mecanisme de Control:** Aquesta pujada instantània activa el senyal de maquinari d'autoprotecció d'Intel anomenat **PROCHOT (Processor Hot)**, obligant el processador a reduir la seva freqüència de rellotge al mínim absolut (*Throttling*) per evitar la seva destrucció. Aquest fenomen, observable pel fet que el ventilador es revoluciona al 100% immediatament després d'encendre l'equip, explica de manera directa la degradació de rendiment que impedeix carregar el Sistema Operatiu.
 
 <p align="center">
-  <img src="img/06_suciedad_ventilador_1.jpg" alt="Ventilador Obstruït" width="45%">
-  <img src="img/06_suciedad_ventilador_2.jpg" alt="Ventilador Obstruït" width="45%">
-  <img src="img/07_pasta_termica_seca.jpg" alt="Pasta Tèrmica Cristal·litzada" width="45%">
+  <img src="img/07_suciedad_ventilador_1.jpg" alt="Ventilador Obstruït" width="45%">
+  <img src="img/07_suciedad_ventilador_2.jpg" alt="Ventilador Obstruït" width="45%">
+  <img src="img/08_pasta_termica_seca.jpg" alt="Pasta Tèrmica Cristal·litzada" width="45%">
 </p>
 
 ---
