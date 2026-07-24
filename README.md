@@ -72,7 +72,8 @@ Després de retirar la bateria de seguretat i extreure la carcassa inferior, es 
 *   **Mecanisme de Control:** Aquesta pujada instantània activa el senyal de maquinari d'autoprotecció d'Intel anomenat **PROCHOT (Processor Hot)**, obligant el processador a reduir la seva freqüència de rellotge al mínim absolut (*Throttling*) per evitar la seva destrucció. Aquest fenomen, observable pel fet que el ventilador es revoluciona al 100% immediatament després d'encendre l'equip, explica de manera directa la degradació de rendiment que impedeix carregar el Sistema Operatiu.
 
 <p align="center">
-  <img src="img/06_suciedad_ventilador.jpg" alt="Ventilador Obstruït" width="45%">
+  <img src="img/06_suciedad_ventilador_1.jpg" alt="Ventilador Obstruït" width="45%">
+  <img src="img/06_suciedad_ventilador_2.jpg" alt="Ventilador Obstruït" width="45%">
   <img src="img/07_pasta_termica_seca.jpg" alt="Pasta Tèrmica Cristal·litzada" width="45%">
 </p>
 
